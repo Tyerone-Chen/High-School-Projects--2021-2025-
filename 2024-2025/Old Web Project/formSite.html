@@ -1,0 +1,142 @@
+<DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>> Company Registration Form</title>
+        <link rel="stylesheet" href="Styles/form.css" />
+    </head>
+
+    <body class="crt">
+        <nav class="col-">
+            <ul>
+                <li><a href="C:\Users\20132977\Desktop\Programming Files\Java\Web Project\index.html" class="links">> [ Home Page ]</a></li>
+                <li><a href="C:\Users\20132977\Desktop\Programming Files\Java\Web Project\gameSite.html" class="links">> [ Scrap Collection Game ]</a></li>
+                <li><a href="C:\Users\20132977\Desktop\Programming Files\Java\Web Project\formSite.html" class="links">> [ Company Registration Form ]</a></li>
+                <li><a href="C:\Users\20132977\Desktop\Programming Files\Java\Web Project\sigurdLogs.html" class="links">> [ File Explorer ]</a></li>
+                <li class="welcomeUser">> WELCOME GUEST</li>
+            </ul>
+        </nav>
+
+        <p></p>
+
+        <div class="row">
+
+            <main class="mainText col-6">
+                <u>> Welcome to the Company Form Registration!</u><br><br>
+                > Here you will be able to sign up and register for your local company! 
+                There are a <b>4</b> different positions that you have the option to join up for being: <br><br>
+                
+                ■ Maintenance Crew<br>
+                &emsp;▪<br><br>
+                ■ Ship Security Officer<br>
+                &emsp;▪<br><br>
+                ■ Scrap Collection Worker<br>
+                &emsp;▪<br><br>
+                ■ Communications Officer<br>
+                &emsp;▪<br><br>
+           </main>
+
+           <div class="dumbSpace col-1">
+            /--------\<br>
+            |////////|<br>
+            |\\\\\\\\|<br>
+            |////////|<br>
+            |\\\\\\\\|<br>
+            |////////|<br>
+            |\\\\\\\\|<br>
+            |////////|<br>
+            |\\\\\\\\|<br>
+            |////////|<br>
+            |\\\\\\\\|<br>
+            |////////|<br>
+            |\\\\\\\\|<br>
+            |////////|<br>
+            |\\\\\\\\|<br>
+            |////////|<br>
+            |\\\\\\\\|<br>
+            |////////|<br>
+            |\\\\\\\\|<br>
+            |////////|<br>
+            |\\\\\\\\|<br>
+            |////////|<br>
+            |\\\\\\\\|<br>
+            |////////|<br>
+            |\\\\\\\\|<br>
+            |////////|<br>
+            |\\\\\\\\|<br>
+            |////////|<br>
+            |\\\\\\\\|<br>
+            \--------/<br>
+           </div>
+
+            <main class="sideText col-5">
+                <div id = "errorBox" class="errorText">
+                </div>
+
+                <form id="registrationForm" novalidate>
+                    <label for="fname">> First Name:</label><br>
+                    <label for="fname">- </label>
+                    <input type="text" id="fname" name="firstName" class="formInput" value="Sigurd" required="required">
+                    <label for="fname" id="fnameError" class="errorText"></label>
+                    <hr>
+                    <label for="lname">> Last Name:</label><br>
+                    <label for="lname">- </label>
+                    <input type="text" id="lname" name="lastName" class="formInput" required="required">
+                    <label for="lname" id="lnameError" class="errorText"></label>
+                    <hr>
+                    <label for="expYear">> Work Expierence Years:</label><br>
+                    <label for="expYear">- </label>
+                    <input type="number" id="expYear" name="expierance" class="formInput" min="0" required="required">
+                    <label for="expYear" id="expYearError" class="errorText"></label>
+                    <hr>
+                    <label for="tMail">> Terminal Mail Address:</label><br>
+                    <label for="tMail">- </label>
+                    <input type="email" id="tMail" name="mail" class="formInput" value="sigurd2268@gmail.com" required="required">
+                    <label for="tMail" id="tMailError" class="errorText"></label>
+                    <hr>
+                    <label for="positionChoice" id="positionLabel">> Prefered Position:</label>
+                    <label for="positionChoice" id="positionLabelError" class="errorText"></label>
+                    <br>
+                    <label for="positionChoice">- </label>
+                    <input type="radio" id="position0" name="positionSelector" class="formInput position" value="Maintenance Crew">
+                    <label for="positionChoice">Maintenance Crew</label>
+                    <br>
+                    <label for="positionChoice">- </label>
+                    <input type="radio" id="position1" name="positionSelector" class="formInput position" value="Ship Security">
+                    <label for="positionChoice">Ship Security</label>
+                    <br>
+                    <label for="positionChoice">- </label>
+                    <input type="radio" id="position2" name="positionSelector" class="formInput position" value="Scrap Collection">
+                    <label for="positionChoice">Scrap Collection</label>
+                    <br>
+                    <label for="positionChoice">- </label>
+                    <input type="radio" id="position3" name="positionSelector" class="formInput position" value="Communications Office">
+                    <label for="positionChoice">Communications Officer</label>
+                    <hr>
+                    <label for="termsCheck" id="termsLabel">> Terms of Service Agreement:</label>
+                    <label for="termsCheck" id="termsLabelError" class="errorText"></label>
+                    <br>
+                    <label for="termsCheck">- </label>
+                    <input type="checkbox" name="tosCheck" id="termsLabel" class="formInput">
+                    <label for="termsCheck">I Have Read and Agreed to the Terms of Service</label>
+                    <hr>
+                    <input type="submit" id="formSubmit" class="formSubmit" value="> [ Submit ]">
+                    <p></p>
+                </form>
+                <button id="deleteLocal" class="formSubmit">> [ Delete Employee Info ]</button>
+            </main>
+        </div>
+
+        <p></p>
+
+        <footer class="col-12 row">
+            Footer
+        </footer>
+
+        <!-- JS goes here at bottom page -->
+        <script type="text/javascript" src="Scripts/form.js"></script>
+    </body>
+
+<html>

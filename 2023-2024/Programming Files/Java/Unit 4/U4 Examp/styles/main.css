@@ -1,0 +1,29 @@
+body
+{
+    background-color: rgb(249, 241, 227);
+    text-align: center;
+}
+
+
+.box
+{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 5px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.scrap
+{
+    display: inline;
+    border: 2px solid rgb(169, 208, 191);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.scrap:hover
+{
+    background-color: rgb(169, 208, 191)
+}

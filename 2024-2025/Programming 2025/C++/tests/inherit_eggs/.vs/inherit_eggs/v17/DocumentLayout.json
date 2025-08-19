@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5DA5C5-17D2-4F59-9CFA-0618930463FF}|inherit_eggs.vcxproj|C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE5DA5C5-17D2-4F59-9CFA-0618930463FF}|inherit_eggs.vcxproj|solutionrelative:rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5DA5C5-17D2-4F59-9CFA-0618930463FF}|inherit_eggs.vcxproj|C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE5DA5C5-17D2-4F59-9CFA-0618930463FF}|inherit_eggs.vcxproj|solutionrelative:rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5DA5C5-17D2-4F59-9CFA-0618930463FF}|inherit_eggs.vcxproj|C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE5DA5C5-17D2-4F59-9CFA-0618930463FF}|inherit_eggs.vcxproj|solutionrelative:shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5DA5C5-17D2-4F59-9CFA-0618930463FF}|inherit_eggs.vcxproj|C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\shape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE5DA5C5-17D2-4F59-9CFA-0618930463FF}|inherit_eggs.vcxproj|solutionrelative:shape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5DA5C5-17D2-4F59-9CFA-0618930463FF}|inherit_eggs.vcxproj|C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\inherit_eggs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE5DA5C5-17D2-4F59-9CFA-0618930463FF}|inherit_eggs.vcxproj|solutionrelative:inherit_eggs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inherit_eggs.cpp",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\inherit_eggs.cpp",
+              "RelativeDocumentMoniker": "inherit_eggs.cpp",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\inherit_eggs.cpp",
+              "RelativeToolTip": "inherit_eggs.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T12:45:27.128Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rectangle.h",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\rectangle.h",
+              "RelativeDocumentMoniker": "rectangle.h",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\rectangle.h",
+              "RelativeToolTip": "rectangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-23T13:14:28.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\rectangle.cpp",
+              "RelativeDocumentMoniker": "rectangle.cpp",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\rectangle.cpp",
+              "RelativeToolTip": "rectangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T13:17:13.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shape.h",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\shape.h",
+              "RelativeDocumentMoniker": "shape.h",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\shape.h",
+              "RelativeToolTip": "shape.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-23T12:52:34.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "shape.cpp",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\shape.cpp",
+              "RelativeDocumentMoniker": "shape.cpp",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\inherit_eggs\\shape.cpp",
+              "RelativeToolTip": "shape.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T13:17:20.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

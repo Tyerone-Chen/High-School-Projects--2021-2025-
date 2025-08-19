@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title></title>
+        <link rel="stylesheet" href="Styles/main.css" />
+        <!-- JS can go here  -->
+    </head>
+    <body>
+        <div id="searchBar"></div>
+
+        <!-- JS goes here at bottom page -->
+
+        <form name="search_form" onsubmit="return false">
+            <label for="search_term">Search Term: </label>
+            <input name="search_term" id="search_term">
+    
+            <select onchange="console.log(this.value);" name="search_filter" id="search_title" checked>
+                <option value="isbn">By ISBN</option>
+                <option value="title" selected>By Title</option>
+                <option value="author">By Author</option>
+                <option value="publisher">By Publisher</option>
+                <option value="year">By Year</option>
+            </select>
+    
+            <button name="searchBtn" id="searchBtn">Search</button>
+        
+        </form>
+        <p>Search Result:</p>
+        <div id="result"></div>
+
+    </body>
+
+    <script type="text/javascript" src="Scripts/main.js"></script>
+</html>

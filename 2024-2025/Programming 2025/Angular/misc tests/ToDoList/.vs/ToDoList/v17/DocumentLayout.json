@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\misc tests\\todolist\\todolist\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|solutionrelative:todolist\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\misc tests\\todolist\\todolist\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|solutionrelative:todolist\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\misc tests\\todolist\\todolist\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|solutionrelative:todolist\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\misc tests\\todolist\\todolist\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|solutionrelative:todolist\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\misc tests\\todolist\\todolist\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|solutionrelative:todolist\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\misc tests\\todolist\\todolist\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|solutionrelative:todolist\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\misc tests\\todolist\\todolist\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|solutionrelative:todolist\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\misc tests\\todolist\\todolist\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159C7ABE-9E29-4E01-80CA-DB24C00D884F}|ToDoList\\ToDoList.esproj|solutionrelative:todolist\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 490,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "ToDoList\\src\\app\\app.config.ts",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\app\\app.config.ts",
+              "RelativeToolTip": "ToDoList\\src\\app\\app.config.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-03T14:27:58.646Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "ToDoList\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\app\\app.component.ts",
+              "RelativeToolTip": "ToDoList\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-12T14:01:24.555Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "ToDoList\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\app\\app.component.html",
+              "RelativeToolTip": "ToDoList\\src\\app\\app.component.html",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-12T14:01:24.566Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\index.html",
+              "RelativeDocumentMoniker": "ToDoList\\src\\index.html",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\index.html",
+              "RelativeToolTip": "ToDoList\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-12T14:01:24.572Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "ToDoList\\src\\app\\app.routes.ts",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "ToDoList\\src\\app\\app.routes.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-03T14:29:54.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\main.ts",
+              "RelativeDocumentMoniker": "ToDoList\\src\\main.ts",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\main.ts",
+              "RelativeToolTip": "ToDoList\\src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-20T14:21:55.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\styles.css",
+              "RelativeDocumentMoniker": "ToDoList\\src\\styles.css",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\styles.css",
+              "RelativeToolTip": "ToDoList\\src\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-20T13:36:09.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "footer.component.html",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\app\\footer\\footer.component.html",
+              "RelativeDocumentMoniker": "ToDoList\\src\\app\\footer\\footer.component.html",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\misc tests\\ToDoList\\ToDoList\\src\\app\\footer\\footer.component.html",
+              "RelativeToolTip": "ToDoList\\src\\app\\footer\\footer.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-19T13:40:24.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "windowsFormEggs", "windowsFormEggs.csproj", "{DA2489FC-F4CC-4D0F-B85A-4FD78470F9A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA2489FC-F4CC-4D0F-B85A-4FD78470F9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2489FC-F4CC-4D0F-B85A-4FD78470F9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2489FC-F4CC-4D0F-B85A-4FD78470F9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2489FC-F4CC-4D0F-B85A-4FD78470F9A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEE0D831-99B0-4B4F-B708-69DA75FFB7AF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "magazine_Tyerone", "magazine_Tyerone.vcxproj", "{BB5DCC0E-E170-4E15-B6AA-9D9081BB188F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB5DCC0E-E170-4E15-B6AA-9D9081BB188F}.Debug|x64.ActiveCfg = Debug|x64
+		{BB5DCC0E-E170-4E15-B6AA-9D9081BB188F}.Debug|x64.Build.0 = Debug|x64
+		{BB5DCC0E-E170-4E15-B6AA-9D9081BB188F}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB5DCC0E-E170-4E15-B6AA-9D9081BB188F}.Debug|x86.Build.0 = Debug|Win32
+		{BB5DCC0E-E170-4E15-B6AA-9D9081BB188F}.Release|x64.ActiveCfg = Release|x64
+		{BB5DCC0E-E170-4E15-B6AA-9D9081BB188F}.Release|x64.Build.0 = Release|x64
+		{BB5DCC0E-E170-4E15-B6AA-9D9081BB188F}.Release|x86.ActiveCfg = Release|Win32
+		{BB5DCC0E-E170-4E15-B6AA-9D9081BB188F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8A82241-8A5A-4CF4-8B54-3E0AEE6D20DA}
+	EndGlobalSection
+EndGlobal

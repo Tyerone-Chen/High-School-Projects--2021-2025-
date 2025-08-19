@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\Unit 6\\average_of_numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBED076-8AAA-418F-BC02-5ECFF0F0C32C}|average_of_numbers.vcxproj|C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\Unit 6\\average_of_numbers\\average_of_numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCBED076-8AAA-418F-BC02-5ECFF0F0C32C}|average_of_numbers.vcxproj|solutionrelative:average_of_numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "average_of_numbers.cpp",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\Unit 6\\average_of_numbers\\average_of_numbers.cpp",
+              "RelativeDocumentMoniker": "average_of_numbers.cpp",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\Unit 6\\average_of_numbers\\average_of_numbers.cpp",
+              "RelativeToolTip": "average_of_numbers.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T12:20:42.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

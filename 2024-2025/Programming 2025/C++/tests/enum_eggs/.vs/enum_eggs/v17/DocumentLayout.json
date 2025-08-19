@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\enum_eggs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C76021E-46A3-425E-80AB-5413F3B1EE1A}|enum_eggs.vcxproj|C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\enum_eggs\\enum_eggs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C76021E-46A3-425E-80AB-5413F3B1EE1A}|enum_eggs.vcxproj|solutionrelative:enum_eggs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "enum_eggs.cpp",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\enum_eggs\\enum_eggs.cpp",
+              "RelativeDocumentMoniker": "enum_eggs.cpp",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\enum_eggs\\enum_eggs.cpp",
+              "RelativeToolTip": "enum_eggs.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T12:47:43.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

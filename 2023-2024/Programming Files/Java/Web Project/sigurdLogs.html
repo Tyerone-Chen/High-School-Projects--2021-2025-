@@ -1,0 +1,73 @@
+<DOCTYPE html>
+
+    <html class="crt">
+        <head>
+            <meta charset="UTF-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>> FILE LOOKUP</title>
+            <link rel="stylesheet" href="Styles/sigurdStyles.css" />
+        </head>
+    
+        <body>
+            <div class="col-8 row">
+                <div id="infoArea">
+                    <p>
+                        <u>Welcome to your local terminal file search up!</u><br>
+                        <br>
+                        Here you will be able to look up and access files by their name, author, or creation date!<br>
+                        <br>
+                        Remember all files will be periodically searched as per company policy!<br>
+                        Any complaints or issues can be discussed with your local company building! <br>
+
+                        <p id="warningMessage" class="warning">
+                        //////////////////////////////////////////////////////////////////////////////////<br>
+                        <u>
+                        WARNING!:<b> 172 </b>:UNIQUE FILES HAVE BEEN FOUND CORRUPTED.<br>
+                        THERE ARE CURRENTLY:<b> 6 </b>:UNCORRUPTED FILES.<br> 
+                        <br>
+                        FOR FILE RECOVERY OPTIONS, PLEASE CONTACT YOUR LOCAL COMPANY BUILDING FOR<br>
+                        ASSISTANCE.<br>
+                        </u>
+                        //////////////////////////////////////////////////////////////////////////////////<br>
+                        </p>
+                    </p>
+                </div>
+
+                <hr>
+                <p></p>
+
+                <div class = "inputArea">
+                    <label for="textSearch">> FILE SEARCH: </label>
+                    <input type="text" name="textSearch" id="searchInput" value="">
+                    
+                    <label for="searchBy">> SEARCH BY: </label>
+                    <select name="searchBy" id="searchChoices">
+                        <option value="fileName">FILE NAME</option>
+                        <option value="fileAuthor">AUTHOR</option>
+                        <option value="fileDate">DATE</option>
+                    </select>
+
+                    <button id="searchButton"> [ Search ]</button>
+                </div>
+
+                <p></p>
+                <hr>
+                <p></p>
+                <div id="resultArea" class="resultArea">
+
+                </div>
+                <p></p>
+
+                <nav>
+                    <a href="C:\Users\20132977\Desktop\Programming Files\Java\Web Project\index.html" class="links crt">> [ Return? ]</a>
+                </nav>
+            </div>
+
+            <div class="col-3 row">
+                <img src="Media/stickyNote.png" alt="STICKY NOTE: YOU'RE IN DEEP, ACCESS FILE: SIGURD" class="stickyNote">
+            </div>
+
+            <script type="text/javascript" src="Scripts/sigurdFiles.js "></script>
+        </body>
+        
+    <html>

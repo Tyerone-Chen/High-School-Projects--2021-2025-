@@ -1,0 +1,14 @@
+{
+  "name": "test_2",
+  "version": "0.0.0",
+  "description": "To Do List App",
+  "main": "server.js",
+  "author": {
+    "name": "Tyerone Chen"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}

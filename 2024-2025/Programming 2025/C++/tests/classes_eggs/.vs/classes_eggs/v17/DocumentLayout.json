@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\classes_eggs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC902DE-6FA4-4C3E-8E50-4B1FECACF7FE}|classes_eggs.vcxproj|C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\classes_eggs\\games.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EC902DE-6FA4-4C3E-8E50-4B1FECACF7FE}|classes_eggs.vcxproj|solutionrelative:games.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC902DE-6FA4-4C3E-8E50-4B1FECACF7FE}|classes_eggs.vcxproj|C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\classes_eggs\\games.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EC902DE-6FA4-4C3E-8E50-4B1FECACF7FE}|classes_eggs.vcxproj|solutionrelative:games.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC902DE-6FA4-4C3E-8E50-4B1FECACF7FE}|classes_eggs.vcxproj|C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\classes_eggs\\classes_eggs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EC902DE-6FA4-4C3E-8E50-4B1FECACF7FE}|classes_eggs.vcxproj|solutionrelative:classes_eggs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "classes_eggs.cpp",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\classes_eggs\\classes_eggs.cpp",
+              "RelativeDocumentMoniker": "classes_eggs.cpp",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\classes_eggs\\classes_eggs.cpp",
+              "RelativeToolTip": "classes_eggs.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T13:17:51.257Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "games.h",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\classes_eggs\\games.h",
+              "RelativeDocumentMoniker": "games.h",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\classes_eggs\\games.h",
+              "RelativeToolTip": "games.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-18T13:22:46.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "games.cpp",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\classes_eggs\\games.cpp",
+              "RelativeDocumentMoniker": "games.cpp",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\C\u002B\u002B\\tests\\classes_eggs\\games.cpp",
+              "RelativeToolTip": "games.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T13:22:55.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+@font-face 
+{
+  font-family: Retro;
+  src: url(../Fonts/3270-Regular.ttf);
+}
+
+body {
+  background-color: black;
+  color: #26FF94;
+  font-family: Retro;
+  text-shadow: 2.8638780614874975px 0 1px rgba(0,30,255,0.5), -2.8638780614874975px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+}
+
+nav
+{
+  padding: 5px;
+  border: 2.5px dashed #FD6E08;
+}
+
+ul
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;;
+}
+
+li
+{
+  float: left;
+}
+
+div
+{
+  margin: auto;
+  text-align: center;
+}
+
+hr
+{
+  display: inline-block;
+  width: 100%;
+  border: 1.75px dashed #26FF94;
+}
+
+footer
+{
+  padding: 5px;
+  border: 2.5px dashed #26FF94;
+}
+
+/*** Classes css ***/
+
+.icon
+{
+  width: 2.25%;
+  
+  float: right;
+  display: block;
+}
+
+.links
+{
+  display: block;
+  color: #FD6E08;
+  text-align: center;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+.links:hover
+{
+  background-color: #FD6E08;
+  color: #0d151c;
+}
+
+
+.welcomeUser
+{
+  color: #FD6E08;
+  font-size: 18px;
+
+  float: right;
+  padding-top: 3.75px;
+  padding-right: 3px;
+}
+
+
+.mainText
+{
+  text-align: left;
+  float: left;
+  border: 2.5px dashed #26FF94;
+  padding: 10px;
+}
+
+
+.dumbSpace
+{
+  float: left;
+  color: #FD6E08;
+}
+
+.sideText
+{
+  text-align: left;
+  float: left;
+  border: 2.5px dashed #26FF94;
+  padding: 10px;
+}
+
+.errorText
+{
+  color: #FD6E08
+}
+
+
+.formInput
+{
+  font-family: Retro;
+  color: #26FF94;
+  font-size: 16px;
+  outline: none;
+  background-color: black ;
+  border: none;
+  border: 2px solid #26FF94;
+  text-shadow: 2.8638780614874975px 0 1px rgba(0,30,255,0.5), -2.8638780614874975px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+}
+
+
+.formInput:focus
+{
+  border-style: dashed;
+}
+
+.formSubmit
+{
+  padding: 2px;
+  font-family: Retro;
+  color: #FD6E08;
+  font-size: 16px;
+  outline: none;
+  background-color: black;
+  border: none;
+  text-shadow: 2.8638780614874975px 0 1px rgba(0,30,255,0.5), -2.8638780614874975px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+}
+
+.formSubmit:hover
+{
+  background-color: #FD6E08;
+  color: #0d151c;
+}
+
+
+/***   Responsive Web Design Code   ***/
+* {
+  box-sizing: border-box;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+[class*="col-"] {
+  margin: auto;
+  width: 50%;
+}
+
+/* For mobile phones: */
+[class*="col-"] {
+width: 100%;
+}
+
+
+@media only screen and (min-width: 768px) {
+  /* For tablets: */
+  .col-s-1 {width: 8.33%;}
+  .col-s-2 {width: 16.66%;}
+  .col-s-3 {width: 25%;}
+  .col-s-4 {width: 33.33%;}
+  .col-s-5 {width: 41.66%;}
+  .col-s-6 {width: 50%;}
+  .col-s-7 {width: 58.33%;}
+  .col-s-8 {width: 66.66%;}
+  .col-s-9 {width: 75%;}
+  .col-s-10 {width: 83.33%;}
+  .col-s-11 {width: 91.66%;}
+  .col-s-12 {width: 100%;}
+}
+@media only screen and (min-width: 1000px) {
+  /* For desktop: */
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+}
+/***   End of RWD Code   ***/
+
+
+/* SCAN LINE EFFECTS AREA  */
+/* Credits to: https://aleclownes.com/2017/02/01/crt-display.html */
+
+.crt::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+  z-index: 2;
+  background-size: 100% 2px, 3px 100%;
+  pointer-events: none;
+}

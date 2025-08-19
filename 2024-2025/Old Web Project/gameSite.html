@@ -1,0 +1,143 @@
+<DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>> Scrap Collection</title>
+        <link rel="stylesheet" href="Styles/game.css" />
+    </head>
+
+    <body class="crt">
+        <nav class="row">
+            <ul>
+                <li><a href="C:\Users\20132977\Desktop\Programming Files\Java\Web Project\index.html" class="links">> [ Home Page ]</a></li>
+                <li><a href="C:\Users\20132977\Desktop\Programming Files\Java\Web Project\gameSite.html" class="links">> [ Scrap Collection Game ]</a></li>
+                <li><a href="C:\Users\20132977\Desktop\Programming Files\Java\Web Project\formSite.html" class="links">> [ Company Registration Form ]</a></li>
+                <li><a href="C:\Users\20132977\Desktop\Programming Files\Java\Web Project\sigurdLogs.html" class="links">> [ File Explorer ]</a></li>
+                <li class="welcomeUser">> WELCOME GUEST</li>
+            </ul>
+        </nav>
+
+        <p></p>
+
+        <main>
+            <div class="gameArea row">
+                <div class="sideBarLeft col-2">
+                    > Scrap Collection Game!
+                    <p></p>
+                    <hr>
+                    <button type="button" name="startButton" id="startButton" class="gameButton">> [ START GAME! ]</button>
+                    <p></p>
+                    <hr>
+                    <p></p>
+                    <button type="button" name="stopButton" id="stopButton" class="gameButton">> [ STOP GAME! ]</button>
+                    <hr>
+                    <p id="infoArea">
+                        <u>Welcome to the Scrap Collection Game!</u><br><br>
+                        Here, once the game starts, you will have to collect random pieces of scrap that appear after a piece of scrap has been collected.<br>
+                    </p>
+                </div>
+                
+                <div class="dumbSpace col-1 row">
+                    /-------\<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    \-------/<br>
+                </div>
+
+                <div id="gameBoard" class="gameBoard col-6 row">
+                </div>
+
+                <div class="dumbSpace col-1 row">
+                    /-------\<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    |\\\\\\\|<br>
+                    |///////|<br>
+                    \-------/<br>
+                </div>
+
+                <div class="sideBarRight col-2">
+                    <p>> TIME: <span id="timeLabel">--- SECONDS</span></p>
+                    <hr>
+                    <p>> SCORE: <span id="scoreLabel">--- POINTS</span></p>
+                    <hr>
+                    <p>> STATUS: <span id="statusLabel">AWAITING COLLECTION</span></p>
+                    <hr>
+                    <p>> HIGHSCORE: <span id="highscoreLabel">N/A</span></p>
+                    <hr>
+                    <button type="button" id="clearHighScore" onclick="resetHighScore()">> [ CLEAR HIGHSCORE ]</button>
+                </div>
+            </div>
+        </main>
+
+        <p></p>
+
+        <footer class="row">
+            Footer
+        </footer>
+
+        <!-- JS goes here at bottom page -->
+        <script type="text/javascript" src="Scripts/game.js"></script>
+    </body>
+
+<html>

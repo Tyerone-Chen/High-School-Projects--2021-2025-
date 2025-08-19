@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\ClassProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99C27494-1F36-4406-AF8F-CB8BBFDFC642}|ClassProject\\ClassProject.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\classproject\\classproject\\src\\app\\esports-game\\esports-game.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{99C27494-1F36-4406-AF8F-CB8BBFDFC642}|ClassProject\\ClassProject.esproj|solutionrelative:classproject\\src\\app\\esports-game\\esports-game.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C27494-1F36-4406-AF8F-CB8BBFDFC642}|ClassProject\\ClassProject.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\classproject\\classproject\\src\\app\\esports-game\\esports-game.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99C27494-1F36-4406-AF8F-CB8BBFDFC642}|ClassProject\\ClassProject.esproj|solutionrelative:classproject\\src\\app\\esports-game\\esports-game.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C27494-1F36-4406-AF8F-CB8BBFDFC642}|ClassProject\\ClassProject.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\classproject\\classproject\\src\\app\\esports-game\\esports-game.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99C27494-1F36-4406-AF8F-CB8BBFDFC642}|ClassProject\\ClassProject.esproj|solutionrelative:classproject\\src\\app\\esports-game\\esports-game.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C27494-1F36-4406-AF8F-CB8BBFDFC642}|ClassProject\\ClassProject.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\classproject\\classproject\\src\\app\\nav\\nav.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{99C27494-1F36-4406-AF8F-CB8BBFDFC642}|ClassProject\\ClassProject.esproj|solutionrelative:classproject\\src\\app\\nav\\nav.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C27494-1F36-4406-AF8F-CB8BBFDFC642}|ClassProject\\ClassProject.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\classproject\\classproject\\src\\app\\esports\\esports.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99C27494-1F36-4406-AF8F-CB8BBFDFC642}|ClassProject\\ClassProject.esproj|solutionrelative:classproject\\src\\app\\esports\\esports.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C27494-1F36-4406-AF8F-CB8BBFDFC642}|ClassProject\\ClassProject.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\classproject\\classproject\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99C27494-1F36-4406-AF8F-CB8BBFDFC642}|ClassProject\\ClassProject.esproj|solutionrelative:classproject\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 856,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "esports.component.html",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\ClassProject\\ClassProject\\src\\app\\esports\\esports.component.html",
+              "RelativeDocumentMoniker": "ClassProject\\src\\app\\esports\\esports.component.html",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\ClassProject\\ClassProject\\src\\app\\esports\\esports.component.html",
+              "RelativeToolTip": "ClassProject\\src\\app\\esports\\esports.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-24T02:42:10.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nav.component.ts",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\ClassProject\\ClassProject\\src\\app\\nav\\nav.component.ts",
+              "RelativeDocumentMoniker": "ClassProject\\src\\app\\nav\\nav.component.ts",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\ClassProject\\ClassProject\\src\\app\\nav\\nav.component.ts",
+              "RelativeToolTip": "ClassProject\\src\\app\\nav\\nav.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-22T04:50:57.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "esports-game.component.ts",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\ClassProject\\ClassProject\\src\\app\\esports-game\\esports-game.component.ts",
+              "RelativeDocumentMoniker": "ClassProject\\src\\app\\esports-game\\esports-game.component.ts",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\ClassProject\\ClassProject\\src\\app\\esports-game\\esports-game.component.ts",
+              "RelativeToolTip": "ClassProject\\src\\app\\esports-game\\esports-game.component.ts",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwHQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-24T00:34:53.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "esports-game.component.html",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\ClassProject\\ClassProject\\src\\app\\esports-game\\esports-game.component.html",
+              "RelativeDocumentMoniker": "ClassProject\\src\\app\\esports-game\\esports-game.component.html",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\ClassProject\\ClassProject\\src\\app\\esports-game\\esports-game.component.html",
+              "RelativeToolTip": "ClassProject\\src\\app\\esports-game\\esports-game.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-24T00:34:48.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "esports-game.component.css",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\ClassProject\\ClassProject\\src\\app\\esports-game\\esports-game.component.css",
+              "RelativeDocumentMoniker": "ClassProject\\src\\app\\esports-game\\esports-game.component.css",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\ClassProject\\ClassProject\\src\\app\\esports-game\\esports-game.component.css",
+              "RelativeToolTip": "ClassProject\\src\\app\\esports-game\\esports-game.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-24T01:32:34.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\ClassProject\\ClassProject\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "ClassProject\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\ClassProject\\ClassProject\\src\\app\\app.component.html",
+              "RelativeToolTip": "ClassProject\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-15T14:01:27.802Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 540,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

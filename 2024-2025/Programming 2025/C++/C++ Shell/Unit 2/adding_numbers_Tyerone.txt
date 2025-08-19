@@ -1,0 +1,138 @@
+import java.io.File;
+import java.io.FileWriter;
+import java.io.PrintWriter;
+import java.math.BigInteger;
+import java.util.Random;
+import java.util.Scanner;
+
+
+/**
+ * Your task is to complete this class by extending the abstract IOMiner.
+ * You will implement the required methods to mine matrices and save/load them to/from a file.
+ *
+ * Step 1: Rename this class to YourLastNameIOMiner
+ * Step 2: Complete the two required methods
+ * Step 3: Implement any helper methods you need (filling payload, writing to file, etc.)
+ */
+public class ChenIOMiner extends IOMiner {
+
+    // Optional: Declare any helper variables you need
+    private int[][][][] payload_storage = new int [10][1000][100][100];
+    private int[] payload_index = new int[10];
+    private BigInteger glob_high_hash = null;
+    
+    private long script_start_time = System.nanoTime();
+
+    /**
+     * Constructor — must call the superclass constructor with a name
+     */
+    public ChenIOMiner() throws Exception {
+        super("My Custom Miner");
+
+        // Optional: initialize anything here
+        buildDataFile();
+
+        // --- DO NOT EDIT BELOW THIS LINE ---
+        System.out.println("Constructor complete!");
+        printAllHashes();
+    }
+    
+    // Helper Methods
+    /*
+    */
+    private int[][] generatePayload(){
+      // TODO: Step 0 - Create a Random object
+      int[][] payload = new int[ROWS][COLS]; 
+      Random random_int = new Random();  
+      for (int row = 0; row < payload.length; row++){
+         for (int col = 0; col < payload[row].length; col++){
+            payload[row][col] = random_int.nextInt(); 
+         }
+      }
+      return payload;
+    }
+    
+    private boolean storePayload(int[][] payload, BigInteger hash){
+      if (glob_high_hash != null && hash.compareTo(glob_high_hash) <= 0){
+         System.out.println("[SKIPPED] | Hash Not Bigger than Global Hash!");
+         return false;
+      }
+      
+      for (int i = 0; i < payload_storage.length; i++){
+         if (payload_index[i] < payload_storage[i].length){
+            payload_storage[i][payload_index[i]] = payload;
+            payload_index[i]++;
+            glob_high_hash = hash;
+            System.out.println("[STORED] | Stored New Hash! |");
+            return true;
+         } 
+         else {
+            System.out.println("[WARNING] | Payload Storage Full - SKIPPING! |");
+         }
+      }
+      System.out.println("[NO SPACE] | Payload Storage Full - SKIPPING! | ");
+      return false;
+    }
+    
+    // Overided Methods
+
+    /**
+     * Implements the mining process and writes 2D matrices to a file.
+     */
+    @Override
+    public void buildDataFile() throws Exception {
+        System.out.println("[BUILDING] | Building Data File...");
+        File write_file = new File(this.getClass().getSimpleName() + ".txt");   
+        
+        try (PrintWriter writer = new PrintWriter(new FileWriter(write_file, false))){
+            while (numberOfHashes() < MAXHASHES){
+               long elapsed_time = System.nanoTime() - script_start_time;
+               double elapsed_time_sec = elapsed_time / 1_000_000_000.0;
+               int[][] curr_payload = generatePayload(); 
+               BigInteger curr_hash = hashCode(curr_payload);
+               
+               if (storePayload(curr_payload, curr_hash)){
+                  System.out.println("[WRITE] | Writing Current Hash to Data File | "  + elapsed_time_sec);
+                  writer.println(curr_hash.toString());
+                  loadPayload(curr_payload);
+               }
+               else{
+                  System.out.println("[SKIPPED] | Hash Did NOT Meet Requirements for Storage! | " + elapsed_time_sec);
+               }
+            }
+        }
+        System.out.println("[SUCCESS!] | Hash Data File Built Successfully! |");        
+    }
+
+    /**
+     * Loads previously mined matrices from file and adds their hashes to the miner.
+     */
+    @Override
+    public void loadDataFile() throws Exception {
+        System.out.println("[LOAD] | Loading Hash Data File...");
+        
+        File read_file = new File(this.getClass().getSimpleName() + ".txt");
+        
+        if (!read_file.exists()){
+            throw new Exception("[ERROR!?!] | Cannot Find Hash Data File!");
+        }
+        
+        try (Scanner scanner_hash = new Scanner(read_file)){
+            while (scanner_hash.hasNextLine()){
+               BigInteger curr_hash = new BigInteger(scanner_hash.nextLine());
+               int[][] curr_payload = new int[ROWS][COLS];
+               loadPayload(curr_payload);
+            }
+        }
+        System.out.println("[SUCCESS!] | Hash Data File SUccesfully Loaded!");
+    }
+
+    // Optional: Write your own helper methods below (e.g., fillPayload, writePayload)
+
+    /**
+     * Entry point for testing your miner.
+     */
+    public static void main(String[] args) throws Exception {
+        new ChenIOMiner(); // You can change this to match your renamed class
+    }
+}

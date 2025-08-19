@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\Unit 2\\flight-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95CAAF5E-1AE7-45F9-8E21-74B3D73BD49A}|flight-app\\flight-app.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\unit 2\\flight-app\\flight-app\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95CAAF5E-1AE7-45F9-8E21-74B3D73BD49A}|flight-app\\flight-app.esproj|solutionrelative:flight-app\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CAAF5E-1AE7-45F9-8E21-74B3D73BD49A}|flight-app\\flight-app.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\unit 2\\flight-app\\flight-app\\src\\app\\edit-flight\\edit-flight.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95CAAF5E-1AE7-45F9-8E21-74B3D73BD49A}|flight-app\\flight-app.esproj|solutionrelative:flight-app\\src\\app\\edit-flight\\edit-flight.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CAAF5E-1AE7-45F9-8E21-74B3D73BD49A}|flight-app\\flight-app.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\unit 2\\flight-app\\flight-app\\src\\app\\edit-flight\\edit-flight.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95CAAF5E-1AE7-45F9-8E21-74B3D73BD49A}|flight-app\\flight-app.esproj|solutionrelative:flight-app\\src\\app\\edit-flight\\edit-flight.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CAAF5E-1AE7-45F9-8E21-74B3D73BD49A}|flight-app\\flight-app.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\unit 2\\flight-app\\flight-app\\src\\app\\add-flight\\add-flight.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95CAAF5E-1AE7-45F9-8E21-74B3D73BD49A}|flight-app\\flight-app.esproj|solutionrelative:flight-app\\src\\app\\add-flight\\add-flight.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CAAF5E-1AE7-45F9-8E21-74B3D73BD49A}|flight-app\\flight-app.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\unit 2\\flight-app\\flight-app\\src\\app\\models\\flightdata.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95CAAF5E-1AE7-45F9-8E21-74B3D73BD49A}|flight-app\\flight-app.esproj|solutionrelative:flight-app\\src\\app\\models\\flightdata.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CAAF5E-1AE7-45F9-8E21-74B3D73BD49A}|flight-app\\flight-app.esproj|c:\\users\\20132977\\documents\\run\\programming 2025\\angular\\unit 2\\flight-app\\flight-app\\src\\app\\services\\flight.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95CAAF5E-1AE7-45F9-8E21-74B3D73BD49A}|flight-app\\flight-app.esproj|solutionrelative:flight-app\\src\\app\\services\\flight.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 531,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "add-flight.component.ts",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\Unit 2\\flight-app\\flight-app\\src\\app\\add-flight\\add-flight.component.ts",
+              "RelativeDocumentMoniker": "flight-app\\src\\app\\add-flight\\add-flight.component.ts",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\Unit 2\\flight-app\\flight-app\\src\\app\\add-flight\\add-flight.component.ts",
+              "RelativeToolTip": "flight-app\\src\\app\\add-flight\\add-flight.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-22T20:20:21.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightData.ts",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\Unit 2\\flight-app\\flight-app\\src\\app\\models\\FlightData.ts",
+              "RelativeDocumentMoniker": "flight-app\\src\\app\\models\\FlightData.ts",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\Unit 2\\flight-app\\flight-app\\src\\app\\models\\FlightData.ts",
+              "RelativeToolTip": "flight-app\\src\\app\\models\\FlightData.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-22T18:09:31.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "flight.service.ts",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\Unit 2\\flight-app\\flight-app\\src\\app\\services\\flight.service.ts",
+              "RelativeDocumentMoniker": "flight-app\\src\\app\\services\\flight.service.ts",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\Unit 2\\flight-app\\flight-app\\src\\app\\services\\flight.service.ts",
+              "RelativeToolTip": "flight-app\\src\\app\\services\\flight.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-22T14:30:34.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.component.ts",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\Unit 2\\flight-app\\flight-app\\src\\app\\home\\home.component.ts",
+              "RelativeDocumentMoniker": "flight-app\\src\\app\\home\\home.component.ts",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\Unit 2\\flight-app\\flight-app\\src\\app\\home\\home.component.ts",
+              "RelativeToolTip": "flight-app\\src\\app\\home\\home.component.ts",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-22T05:24:33.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "edit-flight.component.html",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\Unit 2\\flight-app\\flight-app\\src\\app\\edit-flight\\edit-flight.component.html",
+              "RelativeDocumentMoniker": "flight-app\\src\\app\\edit-flight\\edit-flight.component.html",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\Unit 2\\flight-app\\flight-app\\src\\app\\edit-flight\\edit-flight.component.html",
+              "RelativeToolTip": "flight-app\\src\\app\\edit-flight\\edit-flight.component.html",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-24T00:22:33.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "edit-flight.component.ts",
+              "DocumentMoniker": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\Unit 2\\flight-app\\flight-app\\src\\app\\edit-flight\\edit-flight.component.ts",
+              "RelativeDocumentMoniker": "flight-app\\src\\app\\edit-flight\\edit-flight.component.ts",
+              "ToolTip": "C:\\Users\\20132977\\Documents\\Run\\Programming 2025\\Angular\\Unit 2\\flight-app\\flight-app\\src\\app\\edit-flight\\edit-flight.component.ts",
+              "RelativeToolTip": "flight-app\\src\\app\\edit-flight\\edit-flight.component.ts",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwD0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-22T20:16:14.253Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 531,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿sorting_algorithm.obj : error LNK2019: unresolved external symbol "public: void __cdecl sortingFunctions::insertionSort(void)" (?insertionSort@sortingFunctions@@QEAAXXZ) referenced in function main
+sorting_algorithm.obj : error LNK2019: unresolved external symbol "public: void __cdecl sortingFunctions::printVector(void)" (?printVector@sortingFunctions@@QEAAXXZ) referenced in function main
+C:\Users\20132977\Documents\Run\Programming 2025\C++\Unit 12\sorting_algorithm\x64\Debug\sorting_algorithm.exe : fatal error LNK1120: 2 unresolved externals

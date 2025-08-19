@@ -1,0 +1,29 @@
+/*
+*Auth: Tyerone Chen
+**Last Update Date: 09/05/2024
+***Desc: Fahrenheit to Celsius Conversion
+*/
+
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    // Var Definition
+    string input_faren;
+    float convert_faren;
+    float output_cel;
+    
+    // Grabs Input
+    cout << "Enter your Temperature in Fahrenheit: ";
+    getline (cin, input_faren);
+    
+    // Conversion section
+    convert_faren = stof(input_faren);
+    output_cel = (convert_faren - 32) * 5/9;
+    
+	// Output Section
+    cout << "Converted Temperature in Celsius: " << output_cel;
+}

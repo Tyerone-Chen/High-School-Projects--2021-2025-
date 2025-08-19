@@ -1,0 +1,7 @@
+﻿  change_Maker_Tyerone.cpp
+C:\Users\20132977\Documents\Run\Programming 2025\C++\Unit 3\change_Maker_Tyerone\change_Maker_Tyerone.cpp(30,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\20132977\Documents\Run\Programming 2025\C++\Unit 3\change_Maker_Tyerone\change_Maker_Tyerone.cpp(35,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\20132977\Documents\Run\Programming 2025\C++\Unit 3\change_Maker_Tyerone\change_Maker_Tyerone.cpp(40,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\20132977\Documents\Run\Programming 2025\C++\Unit 3\change_Maker_Tyerone\change_Maker_Tyerone.cpp(45,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\20132977\Documents\Run\Programming 2025\C++\Unit 3\change_Maker_Tyerone\change_Maker_Tyerone.cpp(50,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  change_Maker_Tyerone.vcxproj -> C:\Users\20132977\Documents\Run\Programming 2025\C++\Unit 3\change_Maker_Tyerone\x64\Debug\change_Maker_Tyerone.exe

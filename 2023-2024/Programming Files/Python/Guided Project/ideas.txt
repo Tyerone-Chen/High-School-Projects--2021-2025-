@@ -1,0 +1,13 @@
+minesweepr solver
+
+short rpg game, ie just 2-4 dugeon floors witha final boss
+
+just minesweeper
+
+fish aquarium simulator
+
+chess
+
+rubix cube??
+
+Puyo Puyo tetris

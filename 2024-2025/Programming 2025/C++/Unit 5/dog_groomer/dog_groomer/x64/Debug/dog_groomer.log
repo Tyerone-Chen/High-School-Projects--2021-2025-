@@ -1,0 +1,3 @@
+﻿  dog_groomer.cpp
+C:\Users\20132977\Documents\Run\Programming 2025\C++\Unit 5\dog_groomer\dog_groomer.cpp(51,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  dog_groomer.vcxproj -> C:\Users\20132977\Documents\Run\Programming 2025\C++\Unit 5\dog_groomer\x64\Debug\dog_groomer.exe
